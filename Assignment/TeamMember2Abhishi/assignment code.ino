@@ -1,7 +1,3 @@
-Assignment -1
-#Build a smart home in Thinkercad with 2 sensors, an Led, buzzer and submit it
-
-
 float temp = A5;
 int buzzer = 10;
 
